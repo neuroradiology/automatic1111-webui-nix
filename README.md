@@ -37,7 +37,7 @@ nix-shell --argstr variant ROCM # ROCm
 ### Launching webui
 
 ```bash
-cd automatic1111-webui-nix
+cd stable-diffusion-webui
 ./webui.sh
 # follow the tutorials at the original project for setting up Stable Diffusion / GFPGAN / whatever
 ```
